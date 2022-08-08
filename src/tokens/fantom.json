@@ -14,7 +14,7 @@
     "decimals": 18,
     "chainId": 250,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
-  }
+  },
   {
     "name": "MSHARE",
     "address": "0xC8Ca9026Ad0882133Ef126824F6852567c571A4E",
